@@ -19,4 +19,3 @@ To create a production build:
 ```sh
 npm run build-prod
 ```
-# Webpack_boilerplate
